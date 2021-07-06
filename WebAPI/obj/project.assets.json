@@ -6158,27 +6158,24 @@
   },
   "packageFolders": {
     "C:\\Users\\Memet\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Memet\\Desktop\\.NetCoreBackAnd\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Memet\\Desktop\\dot-net-core-back-end\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\Memet\\Desktop\\.NetCoreBackAnd\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\Memet\\Desktop\\dot-net-core-back-end\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Memet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Memet\\Desktop\\.NetCoreBackAnd\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\Memet\\Desktop\\dot-net-core-back-end\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\Memet\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6191,17 +6188,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Memet\\Desktop\\.NetCoreBackAnd\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Memet\\Desktop\\.NetCoreBackAnd\\Business\\Business.csproj"
+            "C:\\Users\\Memet\\Desktop\\dot-net-core-back-end\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Memet\\Desktop\\dot-net-core-back-end\\Business\\Business.csproj"
             },
-            "C:\\Users\\Memet\\Desktop\\.NetCoreBackAnd\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Memet\\Desktop\\.NetCoreBackAnd\\Core\\Core.csproj"
+            "C:\\Users\\Memet\\Desktop\\dot-net-core-back-end\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Memet\\Desktop\\dot-net-core-back-end\\Core\\Core.csproj"
             },
-            "C:\\Users\\Memet\\Desktop\\.NetCoreBackAnd\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Memet\\Desktop\\.NetCoreBackAnd\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Memet\\Desktop\\dot-net-core-back-end\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Memet\\Desktop\\dot-net-core-back-end\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Memet\\Desktop\\.NetCoreBackAnd\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Memet\\Desktop\\.NetCoreBackAnd\\Entities\\Entities.csproj"
+            "C:\\Users\\Memet\\Desktop\\dot-net-core-back-end\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Memet\\Desktop\\dot-net-core-back-end\\Entities\\Entities.csproj"
             }
           }
         }
@@ -6243,7 +6240,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

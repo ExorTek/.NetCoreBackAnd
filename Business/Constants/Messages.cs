@@ -4,6 +4,7 @@ namespace Business.Constants
 {
     public static class Messages
     {
+        //error handling/exception handling
         public static string ProductAdded = "Product added";
         public static string ProductNameInvalid = "Product name is invalid";
         public static string MaintenanceTime = "The system is under maintenance";

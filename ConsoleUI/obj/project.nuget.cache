@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i2GyNjJlwoVDawkHWUZMpKS0n+eBN/Pb9BdyzFeOsazc29I0HULVltcEt+u+3nS+W7DtQj318NuJqLp1N1TvSg==",
+  "dgSpecHash": "b0uFRxYjSjRaDroBIyPdqcwc/ZRRK9k86XPVxBrl6FGwiY/My7t17p0Jn8oD1gkFyS9YyJAVB8IsVFhObZJthQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Memet\\Desktop\\.NetCoreBackAnd\\ConsoleUI\\ConsoleUI.csproj",
+  "projectFilePath": "C:\\Users\\Memet\\Desktop\\dot-net-core-back-end\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Memet\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\Memet\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

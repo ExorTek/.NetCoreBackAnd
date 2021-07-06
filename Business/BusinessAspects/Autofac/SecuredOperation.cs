@@ -11,6 +11,7 @@ namespace Business.BusinessAspects.Autofac
 {
     public class SecuredOperation : MethodInterception
     {
+        //role manager/midlware/Secured Operation
         private string[] _roles;
         private IHttpContextAccessor _httpContextAccessor;
 

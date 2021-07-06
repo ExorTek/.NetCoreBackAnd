@@ -7,6 +7,7 @@ using System.Linq.Expressions;
 
 namespace Core.DataAccess.EntityFramework
 {
+    //common methods of all tables
     public class EfEntityRepositoryBase<TEntity, TContext> : IEntityRepository<TEntity>
         where TEntity : class, IEntity, new()
         where TContext : DbContext, new()

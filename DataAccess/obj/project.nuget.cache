@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3WxBXLItJgKAEI7unfPO4g6d3+ow/VRnzw5zP7IHay/qcTgwDwvkD/Rp9kf05/2ei3MWmav1ab6h5/3w9/NLnw==",
+  "dgSpecHash": "gEcBZ0zbtXKM5VsrKncpFxeOBAh7SKdcRTsYGmClfLQUgHNepwDLZD+WTr0hPaOs5Wx8qed8M9OkLo2NGj2X6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Memet\\Desktop\\.NetCoreBackAnd\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Memet\\Desktop\\dot-net-core-back-end\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Memet\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\Memet\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

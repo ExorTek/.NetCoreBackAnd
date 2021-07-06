@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NsND9aB54Zr04A9jSLufzn8CE4ntuydhRlPF6EGdQf2GjKyhSsDKp3R1+Y6iGlrvX6GsQ41pl/upMhh7TY7frw==",
+  "dgSpecHash": "xkzw1VIQORXiDLRDfVc/+1d173kLSUyHOBFxT1Pr9i76N4A+c8AAzpPidbJAQvkKENrPhp4IeleTnG/9AM23Pg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Memet\\Desktop\\.NetCoreBackAnd\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Memet\\Desktop\\dot-net-core-back-end\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Memet\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\Memet\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

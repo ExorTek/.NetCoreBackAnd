@@ -5,6 +5,7 @@ namespace Business.ValidationRules.FluentValidation
 {
     public class ProductValidator : AbstractValidator<Product>
     {
+        //validation rules
         public ProductValidator()
         {
             RuleFor(p => p.ProductName).NotEmpty();

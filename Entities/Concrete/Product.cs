@@ -4,6 +4,7 @@ namespace Entities.Concrete
 {
     public class Product : IEntity
     {
+        //the names of our table will be added to this field
         public int ProductId { get; set; }
         public int CategoryId { get; set; }
         public string ProductName { get; set; }

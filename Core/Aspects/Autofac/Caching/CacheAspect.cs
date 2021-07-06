@@ -9,6 +9,7 @@ namespace Core.Aspects.Autofac.Caching
 {
     public class CacheAspect : MethodInterception
     {
+        //our cache management
         private int _duration;
         private ICacheManager _cacheManager;
 

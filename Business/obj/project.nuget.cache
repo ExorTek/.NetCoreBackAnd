@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "up+K1CSxaQtACHiyo0dOsDbozShbT419AUJWJpuT13nw915eREHgRijUmhIjlOKog/n9lDypR03xpvrd7xBN8Q==",
+  "dgSpecHash": "KF89gYfyFHt3GVCSLIPy7tDhRcXBvnxWILIailmmV0P7p1DvoScsw0SjCu5P1FH4A0QpZujgE/w6IUZ+NirbvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Memet\\Desktop\\.NetCoreBackAnd\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\Memet\\Desktop\\dot-net-core-back-end\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Memet\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\Memet\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
