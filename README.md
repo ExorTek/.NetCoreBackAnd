@@ -8,8 +8,6 @@ DotNetCoreBackAnd requires [.NET Core](https://dotnet.microsoft.com/download/dot
 Install the dependencies.
 
 ```sh
-dotnet restore
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="DotNetCore" height="100" /> 
-npm start
-go to localhost:3000 (default)
+write this terminal -> dotnet restore
+are you ready,start editing
 ```
